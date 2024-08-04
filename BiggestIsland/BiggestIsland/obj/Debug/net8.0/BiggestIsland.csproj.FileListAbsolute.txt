@@ -1,0 +1,14 @@
+D:\Projects\AmazonInterviewExercises\BiggestIsland\BiggestIsland\bin\Debug\net8.0\BiggestIsland.exe
+D:\Projects\AmazonInterviewExercises\BiggestIsland\BiggestIsland\bin\Debug\net8.0\BiggestIsland.deps.json
+D:\Projects\AmazonInterviewExercises\BiggestIsland\BiggestIsland\bin\Debug\net8.0\BiggestIsland.runtimeconfig.json
+D:\Projects\AmazonInterviewExercises\BiggestIsland\BiggestIsland\bin\Debug\net8.0\BiggestIsland.dll
+D:\Projects\AmazonInterviewExercises\BiggestIsland\BiggestIsland\bin\Debug\net8.0\BiggestIsland.pdb
+D:\Projects\AmazonInterviewExercises\BiggestIsland\BiggestIsland\obj\Debug\net8.0\BiggestIsland.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AmazonInterviewExercises\BiggestIsland\BiggestIsland\obj\Debug\net8.0\BiggestIsland.AssemblyInfoInputs.cache
+D:\Projects\AmazonInterviewExercises\BiggestIsland\BiggestIsland\obj\Debug\net8.0\BiggestIsland.AssemblyInfo.cs
+D:\Projects\AmazonInterviewExercises\BiggestIsland\BiggestIsland\obj\Debug\net8.0\BiggestIsland.csproj.CoreCompileInputs.cache
+D:\Projects\AmazonInterviewExercises\BiggestIsland\BiggestIsland\obj\Debug\net8.0\BiggestIsland.dll
+D:\Projects\AmazonInterviewExercises\BiggestIsland\BiggestIsland\obj\Debug\net8.0\refint\BiggestIsland.dll
+D:\Projects\AmazonInterviewExercises\BiggestIsland\BiggestIsland\obj\Debug\net8.0\BiggestIsland.pdb
+D:\Projects\AmazonInterviewExercises\BiggestIsland\BiggestIsland\obj\Debug\net8.0\BiggestIsland.genruntimeconfig.cache
+D:\Projects\AmazonInterviewExercises\BiggestIsland\BiggestIsland\obj\Debug\net8.0\ref\BiggestIsland.dll
