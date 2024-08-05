@@ -58,7 +58,8 @@ function getTaskScheduling(Prerequisites,tasks)
 }
 
 //const Prerequisites=[[0, 1], [1, 2]];
-const Prerequisites=[[2, 5], [0, 5], [0, 4], [1, 4], [3, 2], [1, 3]]
-const Tasks=6;
+//const Prerequisites=[[2, 5], [0, 5], [0, 4], [1, 4], [3, 2], [1, 3]]
+const Prerequisites=[[0, 1], [1, 2], [2, 0]]
+const Tasks=3;
 
 console.log(getTaskScheduling(Prerequisites,Tasks))
