@@ -22,7 +22,7 @@ function getFrequentNumber(input,k)
         }
             
         return acc;
-    },{})).sort((a,b)=>{return b[1].count - a[1].count}).slice(0,k)
+    },{})).sort((a,b)=>{return b[1].count - a[1].count})
     .sort((a,b)=>{
         if( b[1].count == a[1].count)
         {
@@ -30,7 +30,7 @@ function getFrequentNumber(input,k)
             return a[1].minIndex- b[1].minIndex
         }
            }
-    )
+    ).slice(0,k)
     .map((elem)=>parseInt(elem[0]));
 
 
@@ -40,6 +40,8 @@ function getFrequentNumber(input,k)
 }
 
 const input = [1,16, 3, 5, 12,16 ,11, 12, 11,12]
+
+//const input = [5, 12, 11, 3, 11]
 const k = 3;
 
 console.log(getFrequentNumber(input,k));
